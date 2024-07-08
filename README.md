@@ -1,6 +1,8 @@
 
 # Employee Management System
 
+![thisaakash - ASP.NET EMP PROJECT](https://raw.githubusercontent.com/thisaakash/emp-asp.net/master/image.png)
+
 This is a web-based Employee Management System built using ASP.NET Web Forms and C#. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on employee data. The data is stored in a local SQL Server database.
 
 ## Features
